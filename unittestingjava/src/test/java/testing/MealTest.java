@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.assertj.core.api.Assertions.assertThat;
+
 
 class MealTest {
 
@@ -19,7 +19,7 @@ class MealTest {
 
         //then
         assertEquals(28, discountedPrice);
-        assertThat(discountedPrice).isEqualTo(28);
+
 
     }
 
@@ -32,7 +32,7 @@ class MealTest {
 
         //then
         assertSame(meal1, meal2);
-        assertThat(meal1).isSameAs(meal2);
+
 
     }
 
@@ -45,7 +45,7 @@ class MealTest {
 
         //then
         assertNotSame(meal1, meal2);
-        assertThat(meal1).isNotSameAs(meal2);
+
 
     }
 
@@ -57,6 +57,6 @@ class MealTest {
 
         //then
         assertEquals(meal1, meal2);
-        assertThat(meal1).isEqual(meal2);
+
     }
 }
