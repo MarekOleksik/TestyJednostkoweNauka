@@ -38,4 +38,12 @@ public class Meal {
         result = 31 * result + name.hashCode();
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "Meal{" +
+                "price=" + price +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }

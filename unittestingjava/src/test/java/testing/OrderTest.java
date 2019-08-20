@@ -1,5 +1,7 @@
 package testing;
 
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
@@ -10,6 +12,20 @@ import static org.hamcrest.Matchers.*;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class OrderTest {
+
+    private Order order;
+
+    @BeforeEach
+    void initializeOrder(){
+        System.out.println("Inside BeforeEach method");
+        order = new Order();
+    }
+    @AfterEach
+    void cleanup(){
+        System.out.println("Inside AfterEach method");
+        order.cancel();
+    }
+
     @Test
     void testAssertArrayEquals(){
 
@@ -24,7 +40,7 @@ public class OrderTest {
     @Test
     void mealShouldBeEmptyAfterCreationOfOrder(){
         //given
-        Order order = new Order();
+
 
         //then
         assertThat(order.getMeals(), empty());
@@ -37,7 +53,7 @@ public class OrderTest {
     void addingMealToOrderShouldIncreaseOrderSize(){
         //given
         Meal meal = new Meal(15, "Burger");
-        Order order = new Order();
+
         //when
         order.addMealToOrder(meal);
         //then
@@ -51,7 +67,7 @@ public class OrderTest {
     void removingMealFromOrderShouldDecreaseOrderSize(){
         //given
         Meal meal = new Meal(15, "Burger");
-        Order order = new Order();
+
         //when
         order.addMealToOrder(meal);
         order.removeMealFromOrder(meal);
@@ -65,7 +81,7 @@ public class OrderTest {
         //given
         Meal meal1 = new Meal(15, "Burger");
         Meal meal2 = new Meal(5, "Sandwich");
-        Order order = new Order();
+
         //when
         order.addMealToOrder(meal1);
         order.addMealToOrder(meal2);
