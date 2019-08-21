@@ -15,7 +15,7 @@ class AddressTest {
         assertThat(street, notNullValue());
         assertThat(street, containsString("a"));
         assertThat(number, notNullValue());
-        assertThat(number.length(), lessThan(5));
+        assertThat(number.length(), lessThan(6));
     }
 
     @ParameterizedTest
@@ -24,6 +24,6 @@ class AddressTest {
         assertThat(street, notNullValue());
         assertThat(street, containsString("a"));
         assertThat(number, notNullValue());
-        assertThat(number.length(), lessThan(5));
+        assertThat(number.length(), lessThan(6));
     }
 }

@@ -24,7 +24,7 @@ public class OrderBackupTest {
     void appendAtTheEndOfLine() throws IOException {
         orderBackup.getWriter().append(" backed up.");
     }
-
+    @Tag("fries")
     @Test
     void backupOrderWithOneMeal() throws IOException {
 
