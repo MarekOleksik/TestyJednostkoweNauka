@@ -1,0 +1,15 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+unit-testing-java,default,Calc,7,0,0,0,2,0,2,0,2,0
+unit-testing-java,default,Test,26,0,2,0,9,0,4,0,3,0
+unit-testing-java,testing.homework,Unit,135,0,6,0,34,0,13,0,10,0
+unit-testing-java,testing.homework,Cargo,59,0,10,0,11,0,9,0,4,0
+unit-testing-java,testing.homework,Coordinates,94,0,18,0,16,0,15,0,6,0
+unit-testing-java,testing,Order,50,0,2,0,14,0,9,0,8,0
+unit-testing-java,testing,Account,51,0,4,0,20,0,10,0,8,0
+unit-testing-java,testing,Meal,87,0,8,0,24,0,13,0,9,0
+unit-testing-java,testing,Cart,56,0,2,0,15,0,6,0,5,0
+unit-testing-java,testing,IAExceptionIgnoreExtension,18,0,2,0,6,0,4,0,3,0
+unit-testing-java,testing,Address,9,0,0,0,4,0,1,0,1,0
+unit-testing-java,testing,BeforeAfterExtension,11,0,0,0,5,0,3,0,3,0
+unit-testing-java,testing,OrderStatus,34,0,0,0,2,0,1,0,1,0
+unit-testing-java,testing,OrderBackup,47,0,2,0,13,0,6,0,5,0

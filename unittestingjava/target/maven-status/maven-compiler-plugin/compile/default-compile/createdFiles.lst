@@ -1,0 +1,7 @@
+testing\account\Account.class
+testing\order\OrderStatus.class
+testing\extensions\IAExceptionIgnoreExtension.class
+testing\order\OrderBackup.class
+testing\order\Order.class
+testing\extensions\BeforeAfterExtension.class
+testing\account\Address.class

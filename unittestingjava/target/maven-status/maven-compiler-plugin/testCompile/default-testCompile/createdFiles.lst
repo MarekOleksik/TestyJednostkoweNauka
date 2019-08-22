@@ -1,0 +1,5 @@
+testing\account\AddressTest.class
+testing\account\AccountTest.class
+testing\order\OrderStatusTest.class
+testing\order\OrderBackupTest.class
+testing\order\OrderTest.class

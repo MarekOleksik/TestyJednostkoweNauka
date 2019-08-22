@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: testing.order.OrderTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.076 s <<< FAILURE! - in testing.order.OrderTest
+orderTotalPriceShouldNotExceedMaxIntValue  Time elapsed: 0.014 s  <<< ERROR!
+java.lang.IllegalStateException: Price limit exceeded.
+	at testing.order.OrderTest.orderTotalPriceShouldNotExceedMaxIntValue(OrderTest.java:124)
+

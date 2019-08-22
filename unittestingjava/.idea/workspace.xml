@@ -2,21 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7288a42-ef98-40b4-9920-c67f49df0bc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/BeforeAfterExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/IAExceptionIgnoreExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/homework/Cargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/homework/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/homework/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testing/homework/CoordinatesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testing/homework/UnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testing/account/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testing/account/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testing/OrderBackupExecutionOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testing/account/AccountRepositoryStab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testing/account/AccountServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Meal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testing/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testing/AddressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/AddressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/account/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/BeforeAfterExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/extensions/BeforeAfterExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/IAExceptionIgnoreExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/extensions/IAExceptionIgnoreExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/OrderBackup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/order/OrderBackup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/order/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/account/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/AddressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/account/AddressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/CartTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testing/MealTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/MealTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testing/OrderBackupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/OrderBackupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testing/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/OrderBackupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/order/OrderBackupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/OrderStatusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/order/OrderStatusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/order/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,22 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testing/MealTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="120" column="3" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3387#3388#0" expanded="true" />
-                <element signature="e#3424#3425#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testing/OrderBackupTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="560">
+              <caret line="120" column="3" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,108 +59,99 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testing/AccountTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testing/account/AccountRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testing/account/AccountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testing/Meal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-              <folding>
-                <element signature="e#491#492#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testing/AddressTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testing/homework/Coordinates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
-              <folding>
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#919#920#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#961#962#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1003#1004#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testing/homework/CoordinatesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testing/homework/Cargo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-              <folding>
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testing/homework/Unit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1836#1837#0" expanded="true" />
-                <element signature="e#1906#1907#0" expanded="true" />
-                <element signature="e#1927#1928#0" expanded="true" />
-                <element signature="e#1959#1960#0" expanded="true" />
-                <element signature="e#1980#1981#0" expanded="true" />
-                <element signature="e#2026#2027#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testing/homework/UnitTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testing/account/AccountServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-638">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testing/account/AccountRepositoryStab.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testing/order/OrderBackupTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testing/order/OrderStatusTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testing/order/OrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="145" column="23" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testing/order/OrderBackup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testing/OrderBackupExecutionOrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,8 +165,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
+        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -188,28 +178,46 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/testing/Address.java" />
-        <option value="$PROJECT_DIR$/src/main/java/testing/Order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/testing/OrderBackup.java" />
         <option value="$PROJECT_DIR$/src/main/java/testing/Cart.java" />
         <option value="$PROJECT_DIR$/src/test/java/testing/CartTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/testing/Account.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/testing/OrderStatus.java" />
         <option value="$PROJECT_DIR$/src/test/java/testing/OrderStatusTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/addresses.csv" />
         <option value="$PROJECT_DIR$/src/main/java/testing/BeforeAfterExtension.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testing/OrderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testing/IAExceptionIgnoreExtension.java" />
         <option value="$PROJECT_DIR$/src/main/java/testing/Meal.java" />
         <option value="$PROJECT_DIR$/src/test/java/testing/MealTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testing/OrderBackupTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testing/AccountTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testing/AddressTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testing/homework/Coordinates.java" />
         <option value="$PROJECT_DIR$/src/main/java/testing/homework/Cargo.java" />
         <option value="$PROJECT_DIR$/src/main/java/testing/homework/Unit.java" />
         <option value="$PROJECT_DIR$/src/test/java/testing/homework/CoordinatesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testing/homework/UnitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/Order.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/OrderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/OrderBackupTimeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/OrderBackup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/OrderBackupExecutionOrderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/Account.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/AccountTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/account/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/account/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/extensions/BeforeAfterExtension.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/extensions/IAExceptionIgnoreExtension.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/order/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/order/OrderBackup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/order/OrderStatus.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/account/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/account/AddressTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/order/OrderBackupTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/order/OrderStatusTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/order/OrderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/account/AccountRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testing/account/AccountService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/account/AccountRepositoryStab.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testing/account/AccountServiceTest.java" />
       </list>
     </option>
   </component>
@@ -220,7 +228,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -274,7 +282,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unittestingjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
@@ -304,14 +321,16 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="unittestingjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
@@ -322,23 +341,14 @@
               <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="unittestingjava" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="unittestingjava" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unittestingjava" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unittestingjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="jacoco" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -358,10 +368,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="testing.account" />
       <recent name="testing.homework" />
       <recent name="testing" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="testing.order" />
+      <recent name="testing.account" />
       <recent name="testing" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -383,78 +396,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UnitTest">
-    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AccountServiceTest.getAllActiveAccounts">
+    <configuration name="AccountServiceTest.getAllActiveAccounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittestingjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing.*" />
+          <option name="PATTERN" value="testing.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.account" />
+      <option name="MAIN_CLASS_NAME" value="testing.account.AccountServiceTest" />
+      <option name="METHOD_NAME" value="getAllActiveAccounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.validEmailShouldBeSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestingjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.account" />
+      <option name="MAIN_CLASS_NAME" value="testing.account.AccountTest" />
+      <option name="METHOD_NAME" value="validEmailShouldBeSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderBackupExecutionOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestingjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.account.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testing" />
-      <option name="MAIN_CLASS_NAME" value="testing.AccountTest" />
+      <option name="MAIN_CLASS_NAME" value="testing.OrderBackupExecutionOrderTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddressTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderTest.cancelinOrderShouldRemoveAllItemsFromMealsList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittestingjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing.*" />
+          <option name="PATTERN" value="testing.account.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testing" />
-      <option name="MAIN_CLASS_NAME" value="testing.AddressTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="testing.order" />
+      <option name="MAIN_CLASS_NAME" value="testing.order.OrderTest" />
+      <option name="METHOD_NAME" value="cancelinOrderShouldRemoveAllItemsFromMealsList" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoordinatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderTest.emptyOrderTotalPriceShouldEqualZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittestingjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing.homework.*" />
+          <option name="PATTERN" value="testing.account.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testing.homework" />
-      <option name="MAIN_CLASS_NAME" value="testing.homework.CoordinatesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MealTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unittestingjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testing" />
-      <option name="MAIN_CLASS_NAME" value="testing.MealTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unittestingjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testing.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testing.homework" />
-      <option name="MAIN_CLASS_NAME" value="testing.homework.UnitTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="testing.order" />
+      <option name="MAIN_CLASS_NAME" value="testing.order.OrderTest" />
+      <option name="METHOD_NAME" value="emptyOrderTotalPriceShouldEqualZero" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -472,19 +489,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.friestest" />
-      <item itemvalue="JUnit.MealTest" />
-      <item itemvalue="JUnit.AccountTest" />
-      <item itemvalue="JUnit.AddressTest" />
-      <item itemvalue="JUnit.CoordinatesTest" />
-      <item itemvalue="JUnit.UnitTest" />
+      <item itemvalue="JUnit.OrderTest.emptyOrderTotalPriceShouldEqualZero" />
+      <item itemvalue="JUnit.OrderTest.cancelinOrderShouldRemoveAllItemsFromMealsList" />
+      <item itemvalue="JUnit.OrderBackupExecutionOrderTest" />
+      <item itemvalue="JUnit.AccountTest.validEmailShouldBeSet" />
+      <item itemvalue="JUnit.AccountServiceTest.getAllActiveAccounts" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UnitTest" />
-        <item itemvalue="JUnit.CoordinatesTest" />
-        <item itemvalue="JUnit.AddressTest" />
-        <item itemvalue="JUnit.AccountTest" />
-        <item itemvalue="JUnit.MealTest" />
+        <item itemvalue="JUnit.AccountServiceTest.getAllActiveAccounts" />
+        <item itemvalue="JUnit.AccountTest.validEmailShouldBeSet" />
+        <item itemvalue="JUnit.OrderBackupExecutionOrderTest" />
+        <item itemvalue="JUnit.OrderTest.cancelinOrderShouldRemoveAllItemsFromMealsList" />
+        <item itemvalue="JUnit.OrderTest.emptyOrderTotalPriceShouldEqualZero" />
       </list>
     </recent_temporary>
   </component>
@@ -502,42 +519,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="friestest - 2019.08.21 at 22h 10m 21s.xml">
-      <configuration name="friestest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MealTest_cakeNamesShouldEndWithCake - 2019.08.21 at 22h 15m 07s.xml">
-      <configuration name="MealTest.cakeNamesShouldEndWithCake" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MealTest_mealPricesShouldBeLowerThan20 - 2019.08.21 at 22h 15m 18s.xml">
-      <configuration name="MealTest.mealPricesShouldBeLowerThan20" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MealTest - 2019.08.21 at 22h 16m 09s.xml">
-      <configuration name="MealTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccountTest - 2019.08.21 at 22h 16m 21s.xml">
-      <configuration name="AccountTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddressTest - 2019.08.21 at 22h 16m 29s.xml">
-      <configuration name="AddressTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddressTest - 2019.08.21 at 22h 16m 53s.xml">
-      <configuration name="AddressTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddressTest - 2019.08.21 at 22h 17m 17s.xml">
-      <configuration name="AddressTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CoordinatesTest - 2019.08.21 at 22h 24m 37s.xml">
-      <configuration name="CoordinatesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UnitTest - 2019.08.21 at 22h 27m 08s.xml">
       <configuration name="UnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_invalidEmailShouldThrowException - 2019.08.22 at 20h 51m 33s.xml">
+      <configuration name="AccountTest.invalidEmailShouldThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_invalidEmailShouldThrowException - 2019.08.22 at 20h 59m 50s.xml">
+      <configuration name="AccountTest.invalidEmailShouldThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderTest_orderTotalPriceShouldNotExceedMaxIntValue - 2019.08.22 at 21h 06m 06s.xml">
+      <configuration name="OrderTest.orderTotalPriceShouldNotExceedMaxIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderTest_orderTotalPriceShouldNotExceedMaxIntValue - 2019.08.22 at 21h 11m 02s.xml">
+      <configuration name="OrderTest.orderTotalPriceShouldNotExceedMaxIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderTest_emptyOrderTotalPriceShouldEqualZero - 2019.08.22 at 21h 14m 43s.xml">
+      <configuration name="OrderTest.emptyOrderTotalPriceShouldEqualZero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderTest_cancelinOrderShouldRemoveAllItemsFromMealsList - 2019.08.22 at 21h 18m 19s.xml">
+      <configuration name="OrderTest.cancelinOrderShouldRemoveAllItemsFromMealsList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderBackupExecutionOrderTest - 2019.08.22 at 21h 32m 49s.xml">
+      <configuration name="OrderBackupExecutionOrderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_validEmailShouldBeSet - 2019.08.22 at 21h 56m 16s.xml">
+      <configuration name="AccountTest.validEmailShouldBeSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_getAllActiveAccounts - 2019.08.22 at 22h 47m 51s.xml">
+      <configuration name="AccountServiceTest.getAllActiveAccounts" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -546,7 +562,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -572,29 +588,10 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0-sources.jar!/org/junit/jupiter/api/function/Executable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -623,39 +620,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/OrderBackup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/orderBackup.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/OrderStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/OrderStatusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/addresses.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -664,46 +630,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/BeforeAfterExtension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/OrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/IAExceptionIgnoreExtension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testing/Meal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="340">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="e#491#492#0" expanded="true" />
@@ -711,42 +640,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/OrderBackupTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/homework/CoordinatesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="714">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/MealTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/homework/UnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="120" column="3" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3387#3388#0" expanded="true" />
-            <element signature="e#3424#3425#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/AccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/AddressTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        <state relative-caret-position="1054">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -755,8 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testing/homework/Cargo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="510">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="e#551#552#0" expanded="true" />
             <element signature="e#600#601#0" expanded="true" />
@@ -768,32 +675,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testing/homework/Coordinates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/homework/CoordinatesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testing/homework/Unit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="-638">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -807,13 +696,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testing/homework/UnitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/OrderBackupTimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/jacoco/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/account/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/account/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/extensions/BeforeAfterExtension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/extensions/IAExceptionIgnoreExtension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/order/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/order/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/account/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/account/AddressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/order/OrderStatusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/order/OrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="145" column="23" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/order/OrderBackupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/order/OrderBackup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/OrderBackupExecutionOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/MealTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="120" column="3" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/account/AccountRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testing/account/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/account/AccountRepositoryStab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testing/account/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
