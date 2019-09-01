@@ -1,4 +1,4 @@
-package testing;
+package testing.meal;
 
 public class Meal {
     private int price;
@@ -63,5 +63,9 @@ public class Meal {
 
     int sumPrice(){
         return getPrice() * getQuantity();
+    }
+
+    public String getName() {
+        return this.name;
     }
 }

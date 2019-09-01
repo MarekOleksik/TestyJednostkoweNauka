@@ -5,7 +5,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import testing.Meal;
+import testing.meal.Meal;
 import testing.extensions.BeforeAfterExtension;
 
 import java.util.Arrays;
@@ -121,8 +121,8 @@ public class OrderTest {
         //then
         assertThrows(IllegalStateException.class, () -> order.totalPrice());
 
-        int sum = order.totalPrice();
-        System.out.println(sum);
+        //int sum = order.totalPrice();
+        //System.out.println(sum);
     }
 
     @Test
